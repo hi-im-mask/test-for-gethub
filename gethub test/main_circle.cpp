@@ -14,6 +14,7 @@ int main()
   int r = 0;
   int g = 0;
   int b = 0;
+  int x1 = 25;
   int radius = 0;
   Circle circle1;
   Circle circle2(200,200,30);
